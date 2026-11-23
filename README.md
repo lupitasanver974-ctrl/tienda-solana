@@ -2,7 +2,7 @@
 
 Mejora funcional al proyecto de clase *Registro de ventas*: se añade **inventario**. Cada venta descuenta stock y cada devolución lo regresa.
 
-- **Program ID (Devnet):** `PEGA_AQUI_TU_PROGRAM_ID`
+- **Program ID (Devnet):** `EYW8TN8ftBTqHm6rPYtGPvywTDPA5qRvBtvkg14me5S5`
 - **Transacción verificable:** `PEGA_AQUI_EL_LINK_DE_EXPLORER`
 
 ## Cuentas (PDAs)
