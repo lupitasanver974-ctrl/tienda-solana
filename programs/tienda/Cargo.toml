@@ -1,0 +1,20 @@
+[package]
+name = "tienda"
+version = "0.1.0"
+description = "Tienda con inventario y ventas en Solana (Anchor + PDAs)"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "tienda"
+
+[features]
+default = []
+cpi = ["no-entrypoint"]
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+idl-build = ["anchor-lang/idl-build"]
+
+[dependencies]
+anchor-lang = "0.31.1"
